@@ -10,4 +10,5 @@ public class SpringbootErrorhandlingApplication {
         SpringApplication.run(SpringbootErrorhandlingApplication.class, args);
     }
 
+
 }
